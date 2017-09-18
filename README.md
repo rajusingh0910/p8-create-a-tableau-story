@@ -4,8 +4,10 @@ Raju Singh
 ## Background
 
 I chose to create a visualization of Baseball Test data. The data can also be accessed in this repo in the data folder.
+Links to versions:
 
-Click [here](https://public.tableau.com/profile/raju.singh8842#!/vizhome/baseballdata/Story1) for a link to the final version.
+Version1: Click [Here](https://public.tableau.com/profile/raju.singh8842#!/vizhome/baseballdatav1/Story1)
+Version2: Click [Here](https://public.tableau.com/profile/raju.singh8842#!/vizhome/baseballdata/Story1?publish=yes)
 
 ## Design
 
